@@ -3,7 +3,7 @@ body {
 }
 
 .jumbotron {
-  background-color: #8c0d26;
+  background-color: #0000e6;
 }
 
 body img {
@@ -40,10 +40,7 @@ h2 {
 .my-info {
   float: left;
   width: 500px;
-}
-
-.box {
-  border: 2px solid black;
+  margin-left: 80px;
 }
 
 .panel-heading {
