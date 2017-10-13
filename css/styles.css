@@ -2,6 +2,10 @@ body {
   background-color: #d9d9d9;
 }
 
+.jumbotron {
+  background-color: #8c0d26;
+}
+
 body img {
   margin-left: 30px;
 }
@@ -24,6 +28,10 @@ h1 {
   border: 2px solid #0000FF;
 }
 
+h2 {
+  margin-bottom: 20px;
+}
+
 .about-me {
   float: left;
   margin: 20px;
@@ -34,10 +42,18 @@ h1 {
   width: 500px;
 }
 
+.box {
+  border: 2px solid black;
+}
+
+.panel-heading {
+  border: 5px solid;
+}
+
 .programming {
   float: right;
   width: 500px;
-  line-height: 30px;
+  line-height: 27px;
 }
 
 .programming h3 {
@@ -50,6 +66,7 @@ h1 {
 
 .projects {
   float: left;
+  margin-left: 150px;
 }
 
 .projects h2 {
@@ -61,4 +78,5 @@ h1 {
 #footer {
   float: left;
   line-height: 100px;
+  color: black;
 }
