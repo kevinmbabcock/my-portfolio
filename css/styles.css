@@ -2,6 +2,10 @@ body {
   background-color: #d9d9d9;
 }
 
+body img {
+  margin-left: 30px;
+}
+
 h1 {
   text-align: center;
   background-color: #b3ffff;
@@ -11,6 +15,7 @@ h1 {
 #caption {
   font-style: italic;
   margin: 10px;
+  margin-left: 30px;
 }
 
 #me {
@@ -36,6 +41,10 @@ h1 {
 
 .programming h3 {
   text-align: center;
+}
+
+.note {
+  font-style: italic;
 }
 
 .projects {
