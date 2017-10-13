@@ -16,6 +16,11 @@ h1 {
   border: 2px solid #0000FF;
 }
 
+#subtitle {
+  color: white;
+  text-align: center;
+}
+
 #caption {
   font-style: italic;
   margin: 10px;
