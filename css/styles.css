@@ -26,6 +26,7 @@ h1 {
   text-align: center;
   background-color: #b3ffff;
   border: 2px solid #0000FF;
+  margin-left: 15px;
 }
 
 h2 {
@@ -50,7 +51,7 @@ h2 {
 .programming {
   float: right;
   width: 500px;
-  line-height: 27px;
+  line-height: 22px;
 }
 
 .programming h3 {
@@ -75,5 +76,5 @@ h2 {
 #footer {
   float: left;
   line-height: 100px;
-  color: black;
+  color: red;
 }

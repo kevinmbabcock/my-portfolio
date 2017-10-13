@@ -1,6 +1,7 @@
 # Kevin Babcock's Portfolio
 
-#### This is a portfolio of all Kevin's work in his first week at Epicodus. Last edit: 10/13/17
+#### This is a portfolio of all Kevin's work in his first week at Epicodus.
+Last edit: 10/13/17
 
 #### By Kevin Babcock
 
@@ -11,7 +12,7 @@ This portfolio contains 13 different pages that I have created in my first week 
 ## Setup/Installation Requirements
 
 * Turn on computer
-* Go to github website
+* Go to github website: https://github.com/kevinmbabcock
 * View page!
 
 ## Known Bugs
