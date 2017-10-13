@@ -6,12 +6,6 @@ body {
   background-color: #0000e6;
 }
 
-#subtitle {
-  color: white;
-  margin: 40px;
-  margin-left: 50px;
-}
-
 body img {
   margin-left: 30px;
 }
@@ -92,7 +86,6 @@ h2 {
 
 .projects ol {
   font-weight: bold;
-  line-height: 25px;
 }
 
 .projects ul {
@@ -102,7 +95,7 @@ h2 {
 
 #friends {
   margin: 20px;
-  margin-top: 125px;
+  margin-top: 150px;
   float: right;
 }
 
