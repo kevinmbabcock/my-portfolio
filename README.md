@@ -17,7 +17,7 @@ This portfolio contains 13 different pages that I have created in my first week 
 
 ## Known Bugs
 
-No known issues.
+Media queries not updated to adjust for size of viewport
 
 ## Support and contact details
 
