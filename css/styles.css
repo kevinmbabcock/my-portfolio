@@ -26,7 +26,6 @@ h1 {
   text-align: center;
   background-color: #b3ffff;
   border: 2px solid #0000FF;
-  margin-left: 15px;
 }
 
 h2 {
@@ -35,7 +34,9 @@ h2 {
 
 .about-me {
   float: left;
-  margin: 20px;
+  margin: 30px;
+  margin-right: 30px;
+  background-color: #eb2d53;
 }
 
 .my-info {
@@ -64,13 +65,20 @@ h2 {
 
 .projects {
   float: left;
-  margin-left: 150px;
+  margin-left: 25px;
+  width: 600px;
 }
 
 .projects h2 {
   text-align: center;
   background-color: #b3ffff;
   border: 2px solid #0000FF;
+}
+
+#friends {
+  margin: 20px;
+  margin-top: 150px;
+  float: right;
 }
 
 #footer {

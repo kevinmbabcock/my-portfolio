@@ -32,4 +32,4 @@ This portfolio was made using HTML and CSS, along with some bootstrap elements
 
 MIT
 
-Copyright (c) 2017 Epicodus
+Copyright (c) 2017 Kevin Babcock, Epicodus
