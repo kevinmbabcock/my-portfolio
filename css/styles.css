@@ -25,7 +25,6 @@ h1 {
 #me {
   text-align: center;
   margin-left: 400px;
-  /*margin: auto;*/
   width: 300px;
   background-color: #b3ffff;
   border: 2px solid #0000FF;
@@ -74,8 +73,19 @@ h2 {
 
 .projects h2 {
   text-align: center;
+  width: 300px;
+  margin-left: 150px;
   background-color: #b3ffff;
   border: 2px solid #0000FF;
+}
+
+.projects ol {
+  font-weight: bold;
+}
+
+.projects ul {
+  font-weight: normal;
+  background-color: #ffff80;
 }
 
 #friends {
